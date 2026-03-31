@@ -1,0 +1,26 @@
+section div{
+    padding:  30px;
+    margin: 100px;
+    height: 100px;
+    background-color: bisque;
+    font-size: 50px;
+    color: crimson;
+}
+
+section{
+    height: 400px;
+    background-color: cadetblue;
+    display: flex;
+    flex-direction: coloumn;
+    flex-wrap: wrap;
+    justify-content: space-between center flex-start space-around;
+    align-items:  flex-end;
+    gap: 300p;
+}
+section div:nth-child(1){
+    background-color: brown;
+}
+
+section div:hover{
+    background-color: black;
+}

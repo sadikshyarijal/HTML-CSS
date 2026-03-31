@@ -1,0 +1,31 @@
+body{
+    background-color: antiquewhite;
+}
+
+h1{
+    color: rgb(128, 10, 34);
+    font-size: large;
+    font-weight:400; 
+    font-family: 'Franklin Gothic Medium';
+    text-align: center;
+}
+p1{
+    color:rgb(255, 231, 16); 
+    background-color: cadetblue;   
+    width: 100px;
+    padding: 10px,10px,5px,5px ;
+    outline: 2px solid rgb(2, 68, 68);
+    border: 2px dashed pink;
+    float: right;
+    
+}
+
+.age{
+    color: blue;
+}
+
+#roll{
+    color: blueviolet;
+}
+        
+               
